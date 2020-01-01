@@ -1,5 +1,5 @@
 
-![Screenshot](screenshots/magic8ball-screen.gif)
+![Screenshot](screenshots/Maxeem-Magic-8-Ball.gif)
 
 
 # Magic 8 Ball 🎱
