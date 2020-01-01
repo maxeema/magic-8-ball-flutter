@@ -1,7 +1,11 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
+![Screenshot1](screenshots/magic8ball-screen-port.png)
+
+![Screenshot1](screenshots/magic8ball-screen-land.png)
 
 # Magic 8 Ball 🎱
+
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 ## Our Goal
 
