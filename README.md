@@ -1,7 +1,6 @@
 
-![Screenshot1](screenshots/magic8ball-screen-port.png)
+![Screenshot](screenshots/magic8ball-screen.png)
 
-![Screenshot1](screenshots/magic8ball-screen-land.png)
 
 # Magic 8 Ball 🎱
 
