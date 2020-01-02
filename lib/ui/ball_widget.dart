@@ -22,7 +22,7 @@ class _BallWidgetState extends State<BallWidget> {
   @override
   Widget build(BuildContext context) {
     return GestureDetector(onTap: _onTap,
-      child: Padding(padding: 50.insets.all,
+      child: Padding(padding: 100.insets.all,
         child: AnimatedCrossFade(
           firstChild: Opacity(opacity: updating ? 0 : 1,
               child: MagicWidget(child: Image.asset("images/magic_ball${ball.num}.webp"), oneShot: true)
