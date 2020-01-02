@@ -9,8 +9,10 @@ void main() => runApp(
         scaffoldBackgroundColor: Colors.lightBlue.shade300,
     ),
     home: Scaffold(
-      body: Center(
-        child: BallWidget(),
+      body: SafeArea(
+        child: Center(
+          child: BallWidget(),
+        ),
       ),
     ),
     debugShowCheckedModeBanner: false,
